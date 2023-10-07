@@ -6,3 +6,8 @@
 ```
 String fakeInt = "hello there";
 ```
+
+- [ ] this is a step
+- [ ] this is a second
+- [ ] this is a third
+- [ ] DONE!
